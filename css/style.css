@@ -373,9 +373,9 @@ body {
   display: block;
   font-size: 30px;
   border: none;
-  background: #426931;
-  background: -webkit-linear-gradient(#426931, #222);
-  background: linear-gradient(#426931, , #222);
+  background: #4a4a4a;
+  background: -webkit-linear-gradient(#4a4a4a, #222);
+  background: linear-gradient(#4a4a4a, , #222);
   border: 1px solid #222;
   border-radius: 5px;
   color: white;
