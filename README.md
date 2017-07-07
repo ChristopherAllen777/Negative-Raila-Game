@@ -1,2 +1,2 @@
-# Negative-Raila-Game
-Negative-Raila-Game
+# uhurumemorygame
+Positive Uhuru Memory Match Game
